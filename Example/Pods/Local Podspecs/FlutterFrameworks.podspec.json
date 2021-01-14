@@ -1,0 +1,22 @@
+{
+  "name": "FlutterFrameworks",
+  "version": "0.2.0",
+  "summary": "A short description of FlutterFrameworks.",
+  "description": "Manager FlutterFrameworks.",
+  "homepage": "https://github.com/piaomiaozhiyuan/FlutterFrameworks",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "piaomiaozhiyuan": "piaomiaozhiyuan@163.com"
+  },
+  "source": {
+    "git": "https://github.com/piaomiaozhiyuan/FlutterFrameworks.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "FlutterFrameworks/Classes/**/*"
+}

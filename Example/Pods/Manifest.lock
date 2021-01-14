@@ -1,0 +1,16 @@
+PODS:
+  - FlutterFrameworks (0.2.0)
+
+DEPENDENCIES:
+  - FlutterFrameworks (from `../`)
+
+EXTERNAL SOURCES:
+  FlutterFrameworks:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FlutterFrameworks: 79b2b82e57dbc35bbe38630252ab185987555b6e
+
+PODFILE CHECKSUM: 9dc8a791037ecdf8b0fd38705a27df6c3ec14717
+
+COCOAPODS: 1.8.3
